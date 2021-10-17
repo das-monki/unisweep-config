@@ -18,9 +18,9 @@
 / {
 //test
 
- //combos {
-//#include "combos.dtsi"
- //};
+ combos {
+#include "combos.dtsi"
+ };
 
   behaviors {
  hm: homerow_mods {
