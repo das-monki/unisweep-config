@@ -16,6 +16,7 @@
 #define NUMPAD 4
 
 / {
+//test
 
  //combos {
 //#include "combos.dtsi"
