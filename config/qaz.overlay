@@ -24,7 +24,7 @@ default_transform: keymap_transform_0 {
         label = "KSCAN";
         diode-direction = "col2row";
 
-
+/*
 
 			 col-gpios
             = <&pro_micro 10 GPIO_ACTIVE_HIGH>
@@ -46,7 +46,7 @@ default_transform: keymap_transform_0 {
             , <&pro_micro 21 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             ;
 
-		/*
+		*/
 
 
 //reverse so like it is on the silkscreen
@@ -69,7 +69,7 @@ default_transform: keymap_transform_0 {
             , <&pro_micro 3 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             , <&pro_micro 2 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             ;
-*/
+
 
 
 
