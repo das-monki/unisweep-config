@@ -14,7 +14,7 @@
 #define SYM 2
 #define ADJ 3
 #define NUMPAD 4
-
+//german keyboard layout
 / {
 //test
 
