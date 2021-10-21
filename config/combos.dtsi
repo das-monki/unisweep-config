@@ -24,5 +24,4 @@ combos {
   COMBO(under, &kp UNDER, 8 9, BASE)
   COMBO(readline1, &mo RDL, 13 31, BASE)
   COMBO(readline2, &mo RDL, 30 31, BASE)
-  COMBO(bootloader, &bootloader, 30 31 32, BASE)
 };
